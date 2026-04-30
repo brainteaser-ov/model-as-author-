@@ -1,0 +1,17 @@
+﻿indicator,value
+documents_total,45.0
+words_total,117055.0
+chars_total,939603.0
+chars_no_spaces_total,822037.0
+sentences_total,5364.0
+paragraphs_total,1703.0
+doc_words_mean,2601.222222222222
+doc_words_median,2317.0
+doc_words_min,610.0
+doc_words_max,10173.0
+doc_chars_mean,20880.066666666666
+doc_chars_median,17458.0
+doc_chars_min,5041.0
+doc_chars_max,77807.0
+doc_sentences_mean,119.2
+doc_sentences_median,99.0
