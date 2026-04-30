@@ -1,0 +1,92 @@
+﻿path,file,label,predicted,correct,margin,delta_to_real,delta_to_generated
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/1.docx,1.docx,real,real,True,0.055690542689348255,0.7433716031366632,0.7990621458260114
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/10.docx,10.docx,real,real,True,0.08784412846084177,0.7208371460369588,0.8086812744978006
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/11.docx,11.docx,real,real,True,0.054900621710866404,0.5501297418494119,0.6050303635602783
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/12.docx,12.docx,real,real,True,0.10414366869017466,0.6794496135459349,0.7835932822361096
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/13.docx,13.docx,real,real,True,0.10038836131936746,0.9407599636918524,1.04114832501122
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/14.docx,14.docx,real,real,True,0.09524996798310659,0.539891219012827,0.6351411869959336
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/15.docx,15.docx,real,real,True,0.07859324313666494,0.5510909053129086,0.6296841484495735
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/16.docx,16.docx,real,real,True,0.09912465494711664,0.5659547899265434,0.66507944487366
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/17.docx,17.docx,real,real,True,0.09170497931277988,0.9795547010709601,1.07125968038374
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/18.docx,18.docx,real,real,True,0.048982961111367795,0.8021998593863117,0.8511828204976795
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/19.docx,19.docx,real,real,True,0.046478137944656384,0.866684469129664,0.9131626070743204
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/2.docx,2.docx,real,real,True,0.09419289172555412,0.6377932797422204,0.7319861714677746
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/21.docx,21.docx,real,real,True,0.05395682988574202,0.6822024317685303,0.7361592616542724
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/22.docx,22.docx,real,real,True,0.13188569878861978,0.534068840750262,0.6659545395388817
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/23.docx,23.docx,real,real,True,0.06171016432506449,0.6363132295255824,0.6980233938506469
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/24.docx,24.docx,real,real,True,0.07982873182380057,0.804491969759646,0.8843207015834466
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/25.docx,25.docx,real,real,True,0.031177982484659417,0.8619843704325066,0.8931623529171661
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/26.docx,26.docx,real,real,True,0.10110830330631826,0.6471125654643269,0.7482208687706452
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/27.docx,27.docx,real,real,True,0.051630321703967974,0.8946365553831158,0.9462668770870838
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/28.docx,28.docx,real,real,True,0.03134178437851154,0.9013523296205568,0.9326941139990683
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/29.docx,29.docx,real,real,True,0.08621940455230637,0.6546044740237155,0.7408238785760218
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/3.docx,3.docx,real,real,True,0.04323728541357896,0.7427016376233126,0.7859389230368916
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/30.docx,30.docx,real,real,True,0.11272080985720123,0.6713482721203916,0.7840690819775928
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/31.docx,31.docx,real,real,True,0.09413849478397229,0.7465153759430382,0.8406538707270105
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/32.docx,32.docx,real,real,True,0.09497417330404478,0.5739387518888887,0.6689129251929334
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/33.docx,33.docx,real,real,True,0.13237598305165532,0.7001345748980969,0.8325105579497523
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/34.docx,34.docx,real,real,True,0.06292114558550188,0.6762654434588788,0.7391865890443807
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/35.docx,35.docx,real,real,True,0.05540044893756568,0.7873245856281338,0.8427250345656995
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/36.docx,36.docx,real,real,True,0.06245659337918652,0.6862081520290235,0.74866474540821
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/37.docx,37.docx,real,real,True,0.0738763601247846,0.7221455556724856,0.7960219157972702
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/38.docx,38.docx,real,real,True,0.13065829037359034,0.6877345606714093,0.8183928510449996
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/39.docx,39.docx,real,real,True,0.0402612403048096,0.6781175361793319,0.7183787764841415
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/4.docx,4.docx,real,real,True,0.08211913494563239,0.5311694110732635,0.6132885460188959
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/40.docx,40.docx,real,real,True,0.03739065819570997,0.8186210075235395,0.8560116657192495
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/41.docx,41.docx,real,real,True,0.07163920642485022,0.6469588912887047,0.7185980977135549
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/42.docx,42.docx,real,real,True,0.06261688095741003,0.7778757898004426,0.8404926707578526
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/43.docx,43.docx,real,real,True,0.11041407357942523,0.7478217342766811,0.8582358078561063
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/44.docx,44.docx,real,real,True,0.08378021484665787,0.6030076202482096,0.6867878350948675
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/45.docx,45.docx,real,real,True,0.09653388913427274,0.7264960115183228,0.8230299006525955
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/46.docx,46.docx,real,real,True,0.07075888590187296,0.6612477081118971,0.7320065940137701
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/5.docx,5.docx,real,real,True,0.008493108661429494,0.7602866600954079,0.7687797687568374
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/6.docx,6.docx,real,real,True,0.045975278331760405,0.9197396354392873,0.9657149137710477
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/7.docx,7.docx,real,real,True,0.0909434950853818,0.7472298902619285,0.8381733853473103
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/8.docx,8.docx,real,real,True,0.04131992415598995,0.8611956770455348,0.9025156012015247
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/real docx_converted/9.docx,9.docx,real,real,True,0.068586340704473,0.8149855790854522,0.8835719197899252
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/1.docx,1.docx,generated,generated,True,0.019590247681068762,0.7430196779403987,0.7234294302593299
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/10.docx,10.docx,generated,generated,True,0.031228409194162032,0.7593487196581583,0.7281203104639963
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/11.docx,11.docx,generated,generated,True,0.12897594955174518,0.7486771293326968,0.6197011797809516
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/12.docx,12.docx,generated,generated,True,0.04334690194038582,0.7607173117256724,0.7173704097852865
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/13.docx,13.docx,generated,generated,True,0.0734892904069574,0.8824210202673638,0.8089317298604064
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/14.docx,14.docx,generated,generated,True,0.14203596703916033,0.6919324106451782,0.5498964436060179
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/15.docx,15.docx,generated,generated,True,0.07863312027134339,0.6735062426409049,0.5948731223695615
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/16.docx,16.docx,generated,generated,True,0.0362583099359034,0.629153773512359,0.5928954635764556
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/17.docx,17.docx,generated,generated,True,0.09496149276975507,0.6961903329381994,0.6012288401684444
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/18.docx,18.docx,generated,generated,True,0.08645496027376443,0.7141594723999941,0.6277045121262297
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/19.docx,19.docx,generated,generated,True,0.08681164111311723,0.8427224722490074,0.7559108311358902
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/2.docx,2.docx,generated,generated,True,0.05216513654409094,0.6868648099405121,0.6346996733964212
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/20.docx,20.docx,generated,generated,True,0.050973285413066116,0.7355250769006318,0.6845517914875657
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/21.docx,21.docx,generated,generated,True,0.17565582128413626,0.8092555265584491,0.6335997052743129
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/22.docx,22.docx,generated,generated,True,0.01862631551475824,0.7158963364863677,0.6972700209716095
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/23.docx,23.docx,generated,generated,True,0.07782745557738224,0.7769044568689548,0.6990770012915726
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/24.docx,24.docx,generated,generated,True,0.02927005888446088,0.7628968722094064,0.7336268133249455
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/25.docx,25.docx,generated,generated,True,0.11880881684315825,0.7159140843360349,0.5971052674928766
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/26.docx,26.docx,generated,generated,True,0.05908172568611092,0.6369531911434474,0.5778714654573365
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/27.docx,27.docx,generated,generated,True,0.07477946281883407,0.7450270509467027,0.6702475881278687
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/28.docx,28.docx,generated,generated,True,0.11713899911572345,0.7018996535010583,0.5847606543853349
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/29.docx,29.docx,generated,generated,True,0.04147578376850114,0.6543001995640644,0.6128244157955632
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/3.docx,3.docx,generated,generated,True,0.09341366126122752,0.6245377618309388,0.5311241005697113
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/30.docx,30.docx,generated,generated,True,0.05347260109395224,0.7175885087689469,0.6641159076749946
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/31.docx,31.docx,generated,generated,True,0.05377185467500367,0.7445816037605542,0.6908097490855505
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/32.docx,32.docx,generated,generated,True,0.08896918714650048,0.6288706007343968,0.5399014135878963
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/33.docx,33.docx,generated,generated,True,0.0013028131520931296,0.6905191566433376,0.6892163434912445
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/34.docx,34.docx,generated,generated,True,0.09186378902785364,0.7158455450357626,0.623981756007909
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/35.docx,35.docx,generated,generated,True,0.0713185018638971,0.5714640011506656,0.5001454992867685
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/36.docx,36.docx,generated,generated,True,0.03579192397393105,0.7118915804119106,0.6760996564379795
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/37.docx,37.docx,generated,generated,True,0.06504016347859642,0.6380221103986525,0.5729819469200561
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/38.docx,38.docx,generated,generated,True,0.08030228840362552,0.7686153788778691,0.6883130904742436
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/39.docx,39.docx,generated,generated,True,0.08886701028583166,0.716511864700289,0.6276448544144574
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/4.docx,4.docx,generated,generated,True,0.07293394547988241,0.6729246674301754,0.599990721950293
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/40.docx,40.docx,generated,generated,True,0.12413674171748501,0.7392742840152843,0.6151375422977993
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/41.docx,41.docx,generated,generated,True,0.11370464649743317,0.782143744788195,0.6684390982907619
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/42.docx,42.docx,generated,generated,True,0.08601536611467608,0.8563526318816802,0.7703372657670041
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/43.docx,43.docx,generated,generated,True,0.09960359204345848,0.8941102323256365,0.794506640282178
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/44.docx,44.docx,generated,generated,True,0.12575311748910822,0.737952079687983,0.6121989621988748
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/45.docx,45.docx,generated,generated,True,0.172910041913658,0.6844043031178231,0.5114942612041651
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/46.docx,46.docx,generated,generated,True,0.1262060503614152,0.6346289592258401,0.5084229088644249
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/5.docx,5.docx,generated,generated,True,0.0865382889741304,0.8073439863733205,0.7208056973991901
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/6.docx,6.docx,generated,generated,True,0.06479121294573087,0.7488991522447344,0.6841079392990035
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/7.docx,7.docx,generated,generated,True,0.06149712004688701,0.7036768125093712,0.6421796924624842
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/8.docx,8.docx,generated,generated,True,0.05607047283552591,0.6701144500447037,0.6140439772091778
+/Users/oksanagoncarova/Desktop/статьи написать/генерация статья/generated_docx_converted/9.docx,9.docx,generated,generated,True,0.10983617442469473,0.8487423987651659,0.7389062243404712
